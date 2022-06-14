@@ -4,8 +4,8 @@ The idea is to mark the 1st element and compare it with the next element
 If condition is true, change the position of marker to the next element
 Compare the next two elements
     until the desired(greatest or smallest) element is obtained
-If the position changed from starting element,
-    swap the current position and initial position of that iteration
+If the position of marker(i.e. pos) changed from the initial element of the iteration,
+    swap the elements at current position and initial position of that iteration
 """
 
 l=[]
