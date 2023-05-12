@@ -6,3 +6,4 @@ This repository contains the implementation of classic sorting algorithms in C l
   3. Selection sort
   4. Quick sort
   5. Heap sort
+  6. Merge sort
