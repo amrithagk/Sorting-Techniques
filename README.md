@@ -1,6 +1,6 @@
 # Sorting-Techniques
 
-This repository contains the implementation of classic sorting algorithms in C language and Python
+This repository contains the implementation of classic sorting algorithms in C, Java and Python
   1. Bubblesort
   2. Insertion sort
   3. Selection sort
